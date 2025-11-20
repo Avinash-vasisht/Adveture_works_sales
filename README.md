@@ -47,5 +47,6 @@ A custom theme was created using the official Adventure Works logo colors to ens
 * Scatter Plot for Total sales, AVG sale value and Quantity sold by Salesperson.
 * Slicers (Year, Country): Allow for dynamic filtering of the entire report.
 
-<img width="1395" height="777" alt="Dashboard" src="https://github.com/user-attachments/assets/dc522bfa-039f-445b-9509-93c4231b6fc2" />
+<img width="1375" height="776" alt="Screenshot 2025-11-20 190442" src="https://github.com/user-attachments/assets/11825933-cf87-4964-adc2-7bc52e1f26d2" />
+
 
